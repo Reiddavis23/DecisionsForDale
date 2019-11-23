@@ -1,0 +1,30 @@
+body {
+background-color: gray;
+padding: 20px;
+padding-top: 30px;
+}
+
+
+h1 {
+   font-size: 60px;
+}
+
+h2 {
+   font-size: 100px;
+}
+
+p {
+  font-size: 35px;
+}
+
+
+
+a {
+  color: #ffeb3b;
+  text-decoration: none;
+
+
+a:hover {
+  color: #0000ff;
+  text-decoration: underline;
+}
